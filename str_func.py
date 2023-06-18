@@ -1,6 +1,5 @@
 def foo(word):
     """
-    Docstring
     :param word:
     :return:
     """
